@@ -1,19 +1,18 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: about
 permalink: /about
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+### 소개
 
-### Getting Started
+한국예술종합학교 영상이론과를 중퇴하고 국립부경대학교 컴퓨터공학과에 편입하였지만 응용수학과 건물에서 주로 출몰하는 김태원이라고 합니다. 
+동료 조울증 환자 에이다 러브레이스가 말한 `시적 과학'에 관심이 있습니다.
+> 내게 시(詩)를 줄 수 없다면 시적 과학을 달라. 
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+### About
 
-### Example Content
+Kim Tae-won dropped out from Korea National University of Arts while majoring in Cinema Studies, transferred to Pukyong National University for Computer Engineering degree, but seems to appear primarily in the Department of Appllied Mathematics.
+Main interest is `poetical science' stated by our manic-depressive comrade Ada Lovelace.
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+> If you can't give me poetry, can't you give me poetical science?
