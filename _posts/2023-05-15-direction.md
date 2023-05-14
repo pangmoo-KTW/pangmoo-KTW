@@ -4,6 +4,7 @@ title: "방향"
 author: 김태원
 categories: journal
 tags: [journal]
+image: kierkegaard.jpg
 ---
 
 나는 도대체 무엇을 하면서 살면 좋은가?
