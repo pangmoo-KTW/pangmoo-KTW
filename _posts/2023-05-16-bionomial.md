@@ -38,6 +38,6 @@ $$
 $$
 \begin{aligned}
 (x+y)^2 &= x^2 + 2xy + y^2 \\
-					 &= ax^by^c. \quad a,b,c = [0,2]
+					 &= ax^by^c. \quad a,b,c\in\{r\in\mathbb{R}|0\leq r\leq2\}\textrm{에 대해}
 \end{aligned}
 $$
