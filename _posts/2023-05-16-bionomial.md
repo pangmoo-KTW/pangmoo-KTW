@@ -41,3 +41,7 @@ $$
 					 &= ax^by^c.
 \end{aligned}
 $$
+
+물론 이에 앞서 $a,b,c$의 정체를 밝혀야 한다.
+특히 $a$의 정체가 중요하다.
+$a$를 **이항식 계수**(이항 계수, binomial coefficient)라고 부르자.
