@@ -60,9 +60,34 @@ $$
 
 $3$개의 선택지 $0,1,2$가 주어졌을 때 두 개의 선택지를 순서에 따라 고르는 광경과 일치한다. 
 이런 활동을 조합이라고 부른다.
-그리고 조합에는 이항식 계수를 빈번하게 사용한다.
+그리고 조합에는 이런 이항식 계수를 빈번하게 사용한다.
 그래서 특별한 표기도 있다. 
 
 $$
-{3}\choose{2}.
+{3}\choose{2}=a.
 $$
+
+위 표기는 $3$개에서 $2$개를 고른다는 뜻이다.
+
+<div class="thi-box" markdown="1">
+<div class="box-title" markdown="1">
+**정의 1**
+</div>
+<div class="box-content" markdown="1">
+$n\in\mathbb{N}$과 $r\in\mathbb{Z^+}+\{0\}$에 관한 기호 ${n}\choose{r}$ 혹은 $C(n,r)$을 다음처럼 정의한다.
+
+$$
+\begin{aligned}
+C(n,r) &= C(n-1,r-1) + C(n-1,r). \\ 
+{n}\choose{r} &= {n-1}\choose{k-1}+{n-1}\choose{k}.
+\end{aligned}
+$$
+
+특히 
+
+$$
+C(0,0)=1,\quad C(0,r)=0.
+$$
+</div>
+</div>
+
