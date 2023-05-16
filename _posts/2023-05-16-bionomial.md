@@ -75,10 +75,8 @@ $$
  $n\in\mathbb{N}$과 $r\in\mathbb{Z^+}+\{0\}$에 관한 기호 ${n}\choose{r}$ 혹은 $C(n,r)$을 다음처럼 정의한다.
 
 $$
-\begin{aligned}
 C(n,r) &= C(n-1,r-1) + C(n-1,r) \\ 
 {n}\choose{r} &= {n-1}\choose{k-1}+{n-1}\choose{k}.
-\end{aligned}
 $$
 
 특히
@@ -86,4 +84,5 @@ $$
 $$
 C(0,0)=1,\quad C(0,r)=0.
 $$
+
 --- 
