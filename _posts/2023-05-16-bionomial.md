@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "이항 정리"
+title: "이항 정리 (작성 중)"
 author: 김태원
 categories: journal
 tags: [journal]
@@ -93,6 +93,4 @@ $$
 또한 이에 아래 같은 정리가 따른다.
 
 ---
-**정리 2**
-
----
+*under construction*
