@@ -9,8 +9,9 @@ google-ID: 'UA-112060364-1'
 menu:
 - {name: 'About',   url: 'about.html'}
 - {name: 'Writing', url: 'writing.html'}
-- {name: 'Contact', url: 'contact.html'}
-- {name: '선형대수학', url: 'linearalgebra.html'}
+- {name: 'Philosophy', url: 'philosophy.html'}
+- {name: 'Math', url: 'math.html'}
+- {name: 'CS', url: 'cs.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
