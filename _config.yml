@@ -20,8 +20,8 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           '당신이 그것이다'
-description:	       'tat tvam asi'
+title:		           '펭무'
+description:	       'pangmoo'
 author:              '김태원'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
