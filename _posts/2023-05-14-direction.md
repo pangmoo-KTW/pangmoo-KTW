@@ -2,7 +2,7 @@
 layout: post
 title: "방향"
 author: 김태원
-categories: journal
+categories: philosophy
 tags: [journal]
 ---
 
