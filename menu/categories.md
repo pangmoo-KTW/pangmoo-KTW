@@ -20,4 +20,6 @@ permalink: /categories
 
 	3. [형식 모형: 통계적 프레임워크](https://pangmoo-ktw.github.io/pangmoo-KTW/uml21){:target="_blank"}
 
+	4. [경험적인 리스크 최소화하기](https://pangmoo-ktw.github.io/pangmoo-KTW/uml22){:target="_blank"}
+
 ### 에세이
