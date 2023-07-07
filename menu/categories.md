@@ -20,6 +20,12 @@ permalink: /categories
 
 	3. [형식 모형: 통계적 프레임워크](https://pangmoo-ktw.github.io/pangmoo-KTW/uml21){:target="_blank"}
 
-	4. [경험적인 리스크 최소화하기](https://pangmoo-ktw.github.io/pangmoo-KTW/uml22){:target="_blank"}
+	4. [경험적 리스크 최소화](https://pangmoo-ktw.github.io/pangmoo-KTW/uml22){:target="_blank"}
 
+	5. [귀납 편향에 따른 경험적 리스크 최소화](https://pangmoo-ktw.github.io/pangmoo-KTW/uml23){:target="_blank"}
+
+* [Python for Probability, Statistics, and Machine Learning](https://library.samdu.uz/files/7cbb6fdd660fb2c0f0580bfd6ed73040_Python%20for%20Probability,%20Statistics,%20and%20Machine%20Learning.pdf){:target="_blank"}, José Unpingco
+
+	1. [NumPy 개요](https://pangmoo-ktw.github.io/pangmoo-KTW/ppml001){:target="_blank"}
+	
 ### 에세이
