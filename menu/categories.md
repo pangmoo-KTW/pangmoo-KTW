@@ -6,6 +6,8 @@ permalink: /categories
 
 ### 학습 일지
 
+* [*The Art of Computer Programming*](https://www.haio.ir/app/uploads/2022/01/The-Art-of-Computer-Programming-Vol.-1-Fundamental-Algorithms-3rd-Edition-by-Donald-E.-Knuth-z-lib.org_.pdf){:target="_blank"}, Donald Knuth
+
 * [*Algorithms*](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf){:target="_blank"}, Jeff Erickson
 
 	1. [알고리즘이 무슨 뜻인가?](https://pangmoo-ktw.github.io/pangmoo-KTW/alg01){:target="_blank"}
@@ -26,6 +28,6 @@ permalink: /categories
 
 * [*Python for Probability, Statistics, and Machine Learning*](https://library.samdu.uz/files/7cbb6fdd660fb2c0f0580bfd6ed73040_Python%20for%20Probability,%20Statistics,%20and%20Machine%20Learning.pdf){:target="_blank"}, José Unpingco
 
-	1. [NumPy 개요](https://pangmoo-ktw.github.io/pangmoo-KTW/ppml001){:target="_blank"}
+	1. [NumPy 개요](https://pangmoo-ktw.github.io/pangmoo-KTW/pythonML01){:target="_blank"}
 	
 ### 에세이
