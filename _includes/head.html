@@ -28,11 +28,7 @@
         tex2jax: {
           inlineMath: [['$', '$'], ['\\(', '\\)']]
         }
-      });
-  </script>
-  <script>
-    MathJax = {
-      tex: {
+          tex: {
     autoload: expandable({
       action: ['toggle', 'mathtip', 'texttip'],
       amscd: [[], ['CD']],
@@ -49,11 +45,11 @@
       newcommand: ['newcommand', 'renewcommand', 'newenvironment', 'renewenvironment', 'def', 'let'],
       unicode: ['unicode'],
       verb: ['verb']
+      }
     }
-  }
-}
+  });
   </script>
-  <!-- Google Analytics -->
+ <!-- Google Analytics -->
   {% include google-analytics.html %}
   <!-- Use Jekyll SEO plugin -->
   {% seo %}
