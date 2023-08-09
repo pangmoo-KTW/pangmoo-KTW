@@ -28,6 +28,7 @@
 MathJax = {
     tex: {
       inlineMath: [['$', '$'], ['\\(', '\\)']], 
+      processEscapes: true,
       autoload: expandable({
       action: ['toggle', 'mathtip', 'texttip'],
       amscd: [[], ['CD']],
@@ -44,7 +45,7 @@ MathJax = {
       newcommand: ['newcommand', 'renewcommand', 'newenvironment', 'renewenvironment', 'def', 'let'],
       unicode: ['unicode'],
       verb: ['verb']
-    }
+    }),
     },
 }
 </script>

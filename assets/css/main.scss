@@ -2,7 +2,7 @@
 ---
 
 $sans-serif-font-family: 'Orbit', sans-serif;
-$serif-font-family:      "PT Serif", Georgia, "Times New Roman", serif;
+$serif-font-family:      'Hahmlet', serif;
 $code-font-family:       "Source Code Pro", monospace;
 
 $body-color:             #505050;
@@ -32,3 +32,4 @@ $rss-color:            #ff6600;
 
 @import "-sections-dir";
 @import url('https://fonts.googleapis.com/css2?family=Orbit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hahmlet:wght@500&display=swap');
