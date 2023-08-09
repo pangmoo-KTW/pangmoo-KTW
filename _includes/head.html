@@ -22,19 +22,18 @@
   <!--<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quattrocento+Sans">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script type="text/javascript" id="MathJax-script" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.0.0/es5/latest?tex-mml-chtml.js">
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
 </script>
-<script>
-  MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']], 
-      processEscapes: true,
-    },
-  }
-  </script>
-  <!-- Google Analytics -->
+    
+<script type="text/javascript"
+        src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>  <!-- Google Analytics -->
   {% include google-analytics.html %}
   <!-- Use Jekyll SEO plugin -->
   {% seo %}
