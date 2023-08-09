@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 범주
+title: 집합
 permalink: /categories
 ---
 
