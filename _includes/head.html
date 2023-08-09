@@ -22,14 +22,14 @@
   <!--<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quattrocento+Sans">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
-  <script type="text/javascript" async
-    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
-    MathJax.Hub.Config({
-        tex2jax: {
-          inlineMath: [['$', '$'], ['\\(', '\\)']]
-        }
-          tex: {
-    autoload: expandable({
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+ <script>
+MathJax = {
+    tex: {
+        inlineMath: [ ['$','$'], ['\\(', '\\)'] ], 
+        displayMath: [ ['$$','$$'], ['\\[', '\\]'] ],
+      autoload: expandable({
       action: ['toggle', 'mathtip', 'texttip'],
       amscd: [[], ['CD']],
       bbox: ['bbox'],
@@ -45,11 +45,15 @@
       newcommand: ['newcommand', 'renewcommand', 'newenvironment', 'renewenvironment', 'def', 'let'],
       unicode: ['unicode'],
       verb: ['verb']
-      }
     }
-  });
-  </script>
- <!-- Google Analytics -->
+    },
+    chtml: {
+        scale: 1,
+        matchFontHeight: true,
+    },
+}
+</script>
+  <!-- Google Analytics -->
   {% include google-analytics.html %}
   <!-- Use Jekyll SEO plugin -->
   {% seo %}
