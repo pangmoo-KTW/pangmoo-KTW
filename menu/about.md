@@ -17,7 +17,7 @@ Main interest is `poetical science' stated by our manic-depressive comrade Ada L
 
 --- 
 
-### 범주 
+## 범주 
 
 #### 양자정보
 
