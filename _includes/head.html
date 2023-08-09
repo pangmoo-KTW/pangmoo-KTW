@@ -23,27 +23,10 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quattrocento+Sans">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
- <script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/mml-chtml.js"></script>
+  <script type="text/x-mathjax-config">
 MathJax = {
     tex: {
-      autoload: expandable({
-        action: ['toggle', 'mathtip', 'texttip'],
-        amscd: [[], ['CD']],
-        bbox: ['bbox'],
-        boldsymbol: ['boldsymbol'],
-        braket: ['bra', 'ket', 'braket', 'set', 'Bra', 'Ket', 'Braket', 'Set', 'ketbra', 'Ketbra'],
-        cancel: ['cancel', 'bcancel', 'xcancel', 'cancelto'],
-        color: ['color', 'definecolor', 'textcolor', 'colorbox', 'fcolorbox'],
-        enclose: ['enclose'],
-        extpfeil: ['xtwoheadrightarrow', 'xtwoheadleftarrow', 'xmapsto',
-                 'xlongequal', 'xtofrom', 'Newextarrow'],
-        html: ['data', 'href', 'class', 'style', 'cssId'],
-        mhchem: ['ce', 'pu'],
-        newcommand: ['newcommand', 'renewcommand', 'newenvironment', 'renewenvironment', 'def', 'let'],
-        unicode: ['unicode'],
-        verb: ['verb']
-      }),
       inlineMath: [['$', '$'], ['\\(', '\\)']], 
       processEscapes: true,
     },
