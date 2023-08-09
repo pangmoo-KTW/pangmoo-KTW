@@ -5,11 +5,10 @@ $sans-serif-font-family: 'Orbit', sans-serif;
 $serif-font-family:      'Hahmlet', serif;
 $code-font-family:       "Source Code Pro", monospace;
 
-body{
-  background-color: black;
-  color: #ffd700;
-  link-color: #afeeee;
-}
+$body-background-color: black;
+$body-color: #ffd700;
+$link-color: #afeeee;
+
 
 $code-background-color:   #f5f5f5;
 $pagination-button-color: #e0e0e0;
