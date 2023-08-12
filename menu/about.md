@@ -22,7 +22,8 @@ Main interest is `poetical science' stated by our manic-depressive comrade Ada L
 #### 양자정보
 
 - *Quantum Computation and Quantum Information*, Nielson and Chuang
-    - 2.1.1: Bases and linear independence: [기저와 선형독립](https://pangmoo-ktw.github.io/pangmoo-KTW/qci001)
+    1. [기저와 선형독립](https://pangmoo-ktw.github.io/pangmoo-KTW/qci001)
+    2. [선형 연산자와 행렬](https://pangmoo-ktw.github.io/pangmoo-KTW/qci002)
 
 #### 알고리즘 
 
@@ -31,6 +32,16 @@ Main interest is `poetical science' stated by our manic-depressive comrade Ada L
 - *Algorithms*, Erikson
     - 0.1: What is an algorithm?: [알고리즘이 무슨 뜻인가?](https://pangmoo-ktw.github.io/pangmoo-KTW/alg001)
     - 0.2: Multiplication: [피보나치와 농부의 곱셉](https://pangmoo-ktw.github.io/pangmoo-KTW/alg002)
+
+#### 정수론
+
+- *Elementary Number Theory*, Burton
+    1. [수학적 귀납법](https://pangmoo-ktw.github.io/pangmoo-KTW/ent001)
+
+#### 대수학
+
+- *Abstract Algebra an Introduction*, Hungerford
+    1. [나눗셈 정리](https://pangmoo-ktw.github.io/pangmoo-KTW/aai001)
 
 #### 계산학습
 
@@ -45,6 +56,11 @@ Main interest is `poetical science' stated by our manic-depressive comrade Ada L
     1. [NumPy 개요](https://pangmoo-ktw.github.io/pangmoo-KTW/ppm001)
     2. [NumPy 메모리](https://pangmoo-ktw.github.io/pangmoo-KTW/ppm002)
     3. [확률론 개요](https://pangmoo-ktw.github.io/pangmoo-KTW/ppm003)
+
+#### 프로그래밍
+
+- *Effective C*
+    1. [표현식과 연산자](https://pangmoo-ktw.github.io/pangmoo-KTW/efc001)
 
 #### 일기
 
