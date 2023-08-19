@@ -27,15 +27,15 @@ $$
 
 우선 $^{\Sigma}$가 거슬린다. $\Sigma$는 <u>알파벳(alphabet)</u>이라는 집합이다.
 알파벳이 꼭 시그마 $\Sigma$일 필요는 없고, 감마 $\Gamma$ 등 아무 그리스어
-대문자로 나타낼 수도 있다. 알파벳은 <u>기호(symbols)</u>를 원소로 지니는
-유한하고 공이 아닌 집합이다. 신기한 말이 많이 나오는데, 정말 그냥 유한하고
-공이 아니면 그만인 아무 집합이다. 이를테면 아래는 이진 알파벳이다.
+대문자로 나타낼 수도 있다. 알파벳은 기호(symbols)를 원소로 지니는
+유한하고 공이 아닌 집합이다. 낯설게 표현했지만, 그냥 유한하고
+공이 아니면 그만인 집합을 아무거나 생각하면 된다. 이를테면 아래는 이진 알파벳이다.
 
 $$
 \lbrace0,1\rbrace
 $$
 
-그리고 $\mathbb{C}^{\Sigma}$은 이와 같은 알파벳 $\Sigma$에서 $\mathbb{C}$로의
+그리고 $\mathbb{C}^{\Sigma}$은 알파벳 $\Sigma$에서 $\mathbb{C}$로의
 함수 $c:\Sigma\rightarrow\mathbb{C}$를 전부 모은 집합이다. 이렇게 만든 집합
 $\mathbb{C}^{\Sigma}$는 알파벳의 크기 $|\Sigma|$만큼의 차원을 지니는 벡터공간을
 일으킨다. 덧셈과 (스칼라) 곱셈만 정의되면 된다. 
@@ -53,9 +53,6 @@ $\alpha u\in\mathbb{C}^{\Sigma}$는 아래 방정식으로 정의된다.
     $$
     \forall a\in\Sigma, (\alpha u)(a) = \alpha u(a)
     $$
-
-(여기서 $u(a)$의 값은 $a$로 인덱스가 부여된 $u$의 성분(entry)을 나타낸다.
-$u\in\mathbb{C}^{\Sigma}$가 벡터로서 함수라는 사실을 환기하라)
 
 그리하여 덧셈 및 스칼라 곱셈이 정의된 $\mathbb{C}^{\Sigma}$를 <u>복소 유클리드 
 공간(Complex Euclidean Space)</u>이라고 부른다. (여기에 무한의 개념을 도입해
@@ -89,11 +86,11 @@ $$
 
 이러한 $\Sigma$에서 $\mathbb{C}$로의 함수를 전부 모은 복소유클리드공간
 $\mathbb{C}^{\Sigma}$상의 벡터-함수 $u$를 아래처럼 $\mathbb{C}^{n=4}$상의 벡터에
-일대일대응한다.
+일대일대응할 수 있다.
 
 $$
 u=\begin{bmatrix}
-\alpha_1\\ \alpha_2\\\alpha_3\\\alpha_4
+u(00)=\alpha_1\\ u(01)=\alpha_2\\u(10)=\alpha_3\\u(11)=\alpha_4
 \end{bmatrix}\mapsto
 \begin{bmatrix}
 u(f(1)) \\ u(f(2)) \\ u(f(3)) \\ u(f(4))
