@@ -8,7 +8,7 @@ tags: [quantumInformation]
 요약 : $\mathbb{C}^n$상의 내적은 실수 유클리드 공간 $\mathbb{R}^n$과
 약간 다르다.
 
-참고: The Theory of Quantum Information, John Watrous
+참고: *The Theory of Quantum Information*, John Watrous
 
 ---
 
