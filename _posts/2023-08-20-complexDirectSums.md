@@ -44,7 +44,7 @@ $$
 (u_1\oplus\cdots\oplus u_n)(k,a)=u_k(a)
 $$
 
-열벡터로 본다면 $u_1\oplus\cdots\oplus u_n$은 $|\Sigma_1| + \cdots + |\Sigma_n|$ 차원을 지니는 아래 벡터와 같겠다. 
+열벡터로 본다면 $u_1\oplus\cdots\oplus u_n$은 $\lvert\Sigma_1\rvert + \cdots + \lvert\Sigma_n\rvert$ 차원을 지니는 아래 벡터와 같겠다. 
 
 $$
 \begin{bmatrix}
